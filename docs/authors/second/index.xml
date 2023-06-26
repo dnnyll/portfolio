@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second on DNNYLL</title>
+    <link>https://egazzarr.github.io/authors/second/</link>
+    <description>Recent content in Second on DNNYLL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://egazzarr.github.io/authors/second/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture</title>
+      <link>https://egazzarr.github.io/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expositions et Installations</title>
+      <link>https://egazzarr.github.io/expositions-et-installations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/expositions-et-installations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproductions d&#39;oeuvres</title>
+      <link>https://egazzarr.github.io/reproductions-doeuvres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/reproductions-doeuvres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>try3</title>
+      <link>https://egazzarr.github.io/real-estate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/real-estate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

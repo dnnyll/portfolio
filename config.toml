@@ -1,0 +1,111 @@
+#baseURL = "https://egazzarr.github.io/portfolio"
+baseURL = "https://egazzarr.github.io"
+#baseURL = "https://example.org/"
+#baseURL = "https://localhost:42105/"
+languageCode = "en-us"
+title = "DNNYLL"
+# theme = "sourgough-starter"
+#relativeURLs = true
+#uglyURLs = true
+
+publishDir = "docs"
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+#------------- Config -------------------
+    scholarLink = false
+    scopusLink = false
+    dimensionsLink = false
+    dimensionCitations = false
+    backgroundPath = ""
+    googleScholar = 'XXXX' # These are needed only if set to true above
+    scopusID = 'XXXX'
+    dimensionsID = 'XXXX'
+    footerOffset = -60
+    category1 = "menu.main"
+    category2 = "menu.sub"
+
+#-------------- Defined ------------
+    css= ["css/sourgough.css"]
+
+[menu]
+  [[menu.main]]
+    identifier = "Architecture"
+    name = "Architecture"
+    url = "/Architecture/"
+    category1= "menu.main"
+
+  [[menu.main]]
+    identifier = "Real estate"
+    name = "Real estate"
+    url = "/Real estate/"
+
+[[menu.main]]
+    identifier = "Expositions et Installations"
+    name = "Expositions et Installations"
+    url = "/Expositions et Installations/"
+
+  [[menu.main]]
+    identifier = "Reproductions d'oeuvres"
+    name = "Reproductions d'oeuvres"
+    url = "/Reproductions d'oeuvres/"
+
+
+#----- NavBottom Links ------
+ [[menu.bot]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/dnnyll"
+    pre = "fab fa-github"
+
+  [[menu.bot]]
+    identifier = "gitlab"
+    name = "Gitlab"
+    url = ""
+    pre = "fab fa-gitlab"
+
+ [[menu.bot]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = ""
+    pre = "fab fa-linkedin-in"
+
+#-------- About section links ----- 
+#  [[menu.about]]
+  #  identifier = "ordcidid"
+   # name = "OrcidID"
+   # url = ""
+    #pre = "fab fa-orcid"
+
+#----------- Text Links -------
+  [[menu.link]]
+    identifier = "email"
+    name = "e-mail"
+    url = "mailto:leal.ff.daniel@gmail.com"
+
+ [[menu.link]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+
+ #[[menu.link]]
+ #  identifier = "MindMap"
+ #  name = "MindMap"
+ #  url = "/mindmap/"
+
+[taxonomies]
+  authors = "authors"
+
+  #[[menu.link]]
+   # identifier = "github"
+   # name = "git"
+   # url = "https://github.com/dnnyll"
+   # pre = "fab fa-github"
+   
+  #[[menu.link]]
+   # identifier = "linkedin"
+   # name = "LinkedIn"
+   # url = "/"
+  
