@@ -2,25 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on DNNYLL</title>
-    <link>https://egazzarr.github.io/authors/</link>
+    <link>https://dnnyll.github.io/authors/</link>
     <description>Recent content in Authors on DNNYLL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://egazzarr.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://dnnyll.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>First</title>
-      <link>https://egazzarr.github.io/authors/first/</link>
+      <link>https://dnnyll.github.io/authors/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egazzarr.github.io/authors/first/</guid>
+      <guid>https://dnnyll.github.io/authors/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://egazzarr.github.io/authors/second/</link>
+      <link>https://dnnyll.github.io/authors/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egazzarr.github.io/authors/second/</guid>
+      <guid>https://dnnyll.github.io/authors/second/</guid>
       <description></description>
     </item>
     

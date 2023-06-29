@@ -60,17 +60,17 @@ publishDir = "docs"
     url = "https://github.com/dnnyll"
     pre = "fab fa-github"
 
-  [[menu.bot]]
-    identifier = "gitlab"
-    name = "Gitlab"
-    url = ""
-    pre = "fab fa-gitlab"
+ # [[menu.bot]]
+ #   identifier = "gitlab"
+ #   name = "Gitlab"
+ #   url = ""
+ #   pre = "fab fa-gitlab"
 
- [[menu.bot]]
-    identifier = "linkedin"
-    name = "LinkedIn"
-    url = ""
-    pre = "fab fa-linkedin-in"
+ #[[menu.bot]]
+  #  identifier = "linkedin"
+   # name = "LinkedIn"
+   # url = ""
+   # pre = "fab fa-linkedin-in"
 
 #-------- About section links ----- 
 #  [[menu.about]]
