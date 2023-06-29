@@ -1,6 +1,6 @@
 :root { 
-    --primary-color: rgba(248, 176, 60); 
-    --secondary-color: rgba(248, 176, 60); 
+    --primary-color: blue; 
+    --secondary-color:blue; 
     --link-color: rgb(66, 66, 66); 
 } 
 
